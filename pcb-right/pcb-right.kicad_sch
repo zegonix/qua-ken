@@ -1485,14 +1485,11 @@
     )
   )
 
-  (junction (at 111.252 83.82) (diameter 0) (color 0 0 0 0)
+  (junction (at 111.125 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 003df49e-87b3-4bc6-8693-cd5e3b07950b)
   )
   (junction (at 312.42 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 01d662ff-d129-4988-9e10-328de1da3c26)
-  )
-  (junction (at 130.81 95.25) (diameter 0) (color 0 0 0 0)
-    (uuid 09877433-4e0c-4d8b-981f-79f4826ee71e)
   )
   (junction (at 319.405 201.295) (diameter 0) (color 0 0 0 0)
     (uuid 0c2c2da0-0a89-45df-a80d-43c56c8b57be)
@@ -1509,9 +1506,6 @@
   (junction (at 267.335 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 1ca246cb-1ed5-4554-9e87-a24b57438f46)
   )
-  (junction (at 144.145 85.725) (diameter 0) (color 0 0 0 0)
-    (uuid 1d47183e-3156-4eb3-a3d9-282546b7b854)
-  )
   (junction (at 294.005 201.295) (diameter 0) (color 0 0 0 0)
     (uuid 1e365232-9c77-4139-969e-bfdb8feb49aa)
   )
@@ -1523,6 +1517,9 @@
   )
   (junction (at 48.895 45.72) (diameter 0) (color 0 0 0 0)
     (uuid 29fe719d-5a9e-46a1-975e-bfc28282cefa)
+  )
+  (junction (at 153.035 201.93) (diameter 0) (color 0 0 0 0)
+    (uuid 2a840f41-844b-434f-afc6-7fc373ddf9ab)
   )
   (junction (at 294.005 184.15) (diameter 0) (color 0 0 0 0)
     (uuid 2da6dd85-dcfe-4270-8fb7-d598d7f3d919)
@@ -1539,7 +1536,7 @@
   (junction (at 278.765 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 3d11db18-0eb5-4e25-a274-1e4f96757ca9)
   )
-  (junction (at 106.172 83.82) (diameter 0) (color 0 0 0 0)
+  (junction (at 106.045 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 4baeb39d-25f5-4479-8028-ec2914e55ea2)
   )
   (junction (at 281.305 149.86) (diameter 0) (color 0 0 0 0)
@@ -1596,19 +1593,16 @@
   (junction (at 36.195 249.555) (diameter 0) (color 0 0 0 0)
     (uuid 7c268c72-ad7d-46be-8f5d-5f20fef90b34)
   )
-  (junction (at 108.712 83.82) (diameter 0) (color 0 0 0 0)
+  (junction (at 108.585 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 7e27df5e-fc06-4c15-bdd2-1ea93867da59)
   )
   (junction (at 268.605 184.15) (diameter 0) (color 0 0 0 0)
     (uuid 7e6a7f0b-f412-439c-b8bb-0d2548f43b78)
   )
-  (junction (at 144.145 97.79) (diameter 0) (color 0 0 0 0)
-    (uuid 8088b2d7-6659-4c7c-859d-e8645beb48d0)
-  )
   (junction (at 313.055 122.555) (diameter 0) (color 0 0 0 0)
     (uuid 80b5f4e9-9e23-4efe-8ce4-9ee76fa47de6)
   )
-  (junction (at 103.632 83.82) (diameter 0) (color 0 0 0 0)
+  (junction (at 103.505 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 82e4406a-836b-47bd-a8ab-1930f4796d44)
   )
   (junction (at 262.255 139.7) (diameter 0) (color 0 0 0 0)
@@ -1623,7 +1617,7 @@
   (junction (at 274.955 173.99) (diameter 0) (color 0 0 0 0)
     (uuid 8c8e39f9-5877-4884-a99c-f0fc958c1964)
   )
-  (junction (at 106.172 177.546) (diameter 0) (color 0 0 0 0)
+  (junction (at 106.045 177.8) (diameter 0) (color 0 0 0 0)
     (uuid 956f2782-4d3a-4a6c-bdab-4e67f78d6482)
   )
   (junction (at 290.195 38.1) (diameter 0) (color 0 0 0 0)
@@ -1640,6 +1634,9 @@
   )
   (junction (at 281.305 184.15) (diameter 0) (color 0 0 0 0)
     (uuid a26dfcfb-c5de-4bb3-8c1c-bc968cab5cc3)
+  )
+  (junction (at 147.32 216.535) (diameter 0) (color 0 0 0 0)
+    (uuid a352fa9e-c57d-414f-a0b2-216a4930ccf9)
   )
   (junction (at 287.655 173.99) (diameter 0) (color 0 0 0 0)
     (uuid a82a6ee7-93be-4e91-b923-2ac0a5e78ef1)
@@ -1674,6 +1671,9 @@
   (junction (at 319.405 149.86) (diameter 0) (color 0 0 0 0)
     (uuid c976514e-e8e7-4191-9c42-871348d0877b)
   )
+  (junction (at 135.89 213.995) (diameter 0) (color 0 0 0 0)
+    (uuid cf301093-fc7e-47b6-872c-299708420dc8)
+  )
   (junction (at 301.625 49.53) (diameter 0) (color 0 0 0 0)
     (uuid d01f0179-7c41-42fb-978e-b85d756a8fd0)
   )
@@ -1688,6 +1688,9 @@
   )
   (junction (at 267.335 49.53) (diameter 0) (color 0 0 0 0)
     (uuid dae2569d-bf08-416e-abf2-98268a09e2e0)
+  )
+  (junction (at 147.32 205.105) (diameter 0) (color 0 0 0 0)
+    (uuid ea8cf876-8ae8-435f-b501-70d0724dcca5)
   )
   (junction (at 290.195 49.53) (diameter 0) (color 0 0 0 0)
     (uuid f1202eaf-53b4-4f69-a057-d1704841a16c)
@@ -1704,45 +1707,46 @@
   (junction (at 294.005 132.715) (diameter 0) (color 0 0 0 0)
     (uuid fce45408-4023-48b6-9657-cafb4fa71d99)
   )
-  (junction (at 151.13 82.55) (diameter 0) (color 0 0 0 0)
-    (uuid fdf1403a-de21-4869-a5dd-e88908369a02)
-  )
   (junction (at 268.605 132.715) (diameter 0) (color 0 0 0 0)
     (uuid fe3dd267-6d3f-4d25-bdeb-d457f49a9dbc)
   )
 
-  (no_connect (at 123.952 105.41) (uuid 0e8b859f-7b3a-4a36-97d7-89aea402a8c4))
-  (no_connect (at 123.952 158.75) (uuid 1254c4c4-17da-4b14-8c1b-440b0c3f2a09))
-  (no_connect (at 90.932 140.97) (uuid 1a7a9be5-7200-409e-916d-ad8fe7ce7d84))
-  (no_connect (at 90.932 133.35) (uuid 1c613c2e-e0c5-4858-8aa2-8f165613230f))
-  (no_connect (at 90.932 138.43) (uuid 21189e14-3b13-4816-b8e6-48da63cf919a))
-  (no_connect (at 90.932 125.73) (uuid 2dc8e0a5-81c0-4452-8d23-9027edc282e1))
-  (no_connect (at 123.952 113.03) (uuid 3f2d754c-a251-4840-bb98-dd2dcf5c080a))
-  (no_connect (at 123.952 168.91) (uuid 4ca72c2b-fcf7-49b1-beb8-d630e550e84d))
-  (no_connect (at 123.952 166.37) (uuid 4daf8b47-6455-4b40-ac66-ea4196032e20))
-  (no_connect (at 123.952 110.49) (uuid 553bbbf2-52a0-45ab-9c66-f36d9fc32214))
-  (no_connect (at 123.952 107.95) (uuid 72086ff6-1132-4b40-a7f1-60a4ea798752))
-  (no_connect (at 123.952 90.17) (uuid 8762a40b-dc65-4d33-b9bc-279f430ce2f5))
-  (no_connect (at 90.932 135.89) (uuid 88023343-8d1a-4221-9a4f-7830ea124196))
-  (no_connect (at 123.952 133.35) (uuid 8c909b62-522c-4601-8088-cce934e612ce))
-  (no_connect (at 90.932 153.67) (uuid 94bda5d1-4176-456e-be4b-ebb579336b7e))
-  (no_connect (at 123.952 92.71) (uuid 9998e6f9-8f34-47ed-a0cc-50214e50eec5))
-  (no_connect (at 123.952 115.57) (uuid 9bbc182c-274e-4cc6-b844-a8f77beea30c))
-  (no_connect (at 123.952 161.29) (uuid af7948e6-1a03-4e5b-b485-6f821d964440))
-  (no_connect (at 90.932 130.81) (uuid b2372f90-fb2d-405d-b41c-0ec4fb062049))
-  (no_connect (at 123.952 163.83) (uuid bae56c80-24e9-4fbd-9516-0bcfdc824519))
-  (no_connect (at 123.952 135.89) (uuid bd22f015-b3c8-4a96-8785-2d2f2ccea5d1))
-  (no_connect (at 90.932 156.21) (uuid c2326f30-c7d7-4b38-bd4f-380916ef82d8))
-  (no_connect (at 90.932 151.13) (uuid c490618b-f3e2-47ea-a50f-61383e4b2afc))
-  (no_connect (at 123.952 100.33) (uuid cc510293-b680-4728-9cfa-46ddd630c904))
-  (no_connect (at 123.952 138.43) (uuid d5c60fa9-4ebf-4256-a268-926376974cd7))
-  (no_connect (at 90.932 113.03) (uuid e1f4fa0b-733d-4b94-8962-20de5c671344))
-  (no_connect (at 90.932 128.27) (uuid eb30ddca-f8eb-4356-a11f-42e686984c42))
-  (no_connect (at 123.952 102.87) (uuid ee95a65b-73c9-401b-bcef-56caeac42a5b))
+  (no_connect (at 123.825 105.41) (uuid 0e8b859f-7b3a-4a36-97d7-89aea402a8c4))
+  (no_connect (at 123.825 158.75) (uuid 1254c4c4-17da-4b14-8c1b-440b0c3f2a09))
+  (no_connect (at 90.805 140.97) (uuid 1a7a9be5-7200-409e-916d-ad8fe7ce7d84))
+  (no_connect (at 90.805 138.43) (uuid 21189e14-3b13-4816-b8e6-48da63cf919a))
+  (no_connect (at 90.805 125.73) (uuid 2dc8e0a5-81c0-4452-8d23-9027edc282e1))
+  (no_connect (at 123.825 113.03) (uuid 3f2d754c-a251-4840-bb98-dd2dcf5c080a))
+  (no_connect (at 123.825 168.91) (uuid 4ca72c2b-fcf7-49b1-beb8-d630e550e84d))
+  (no_connect (at 123.825 166.37) (uuid 4daf8b47-6455-4b40-ac66-ea4196032e20))
+  (no_connect (at 123.825 110.49) (uuid 553bbbf2-52a0-45ab-9c66-f36d9fc32214))
+  (no_connect (at 123.825 107.95) (uuid 72086ff6-1132-4b40-a7f1-60a4ea798752))
+  (no_connect (at 123.825 90.17) (uuid 8762a40b-dc65-4d33-b9bc-279f430ce2f5))
+  (no_connect (at 123.825 133.35) (uuid 8c909b62-522c-4601-8088-cce934e612ce))
+  (no_connect (at 90.805 153.67) (uuid 94bda5d1-4176-456e-be4b-ebb579336b7e))
+  (no_connect (at 123.825 92.71) (uuid 9998e6f9-8f34-47ed-a0cc-50214e50eec5))
+  (no_connect (at 123.825 115.57) (uuid 9bbc182c-274e-4cc6-b844-a8f77beea30c))
+  (no_connect (at 123.825 161.29) (uuid af7948e6-1a03-4e5b-b485-6f821d964440))
+  (no_connect (at 90.805 130.81) (uuid b2372f90-fb2d-405d-b41c-0ec4fb062049))
+  (no_connect (at 123.825 163.83) (uuid bae56c80-24e9-4fbd-9516-0bcfdc824519))
+  (no_connect (at 123.825 135.89) (uuid bd22f015-b3c8-4a96-8785-2d2f2ccea5d1))
+  (no_connect (at 90.805 156.21) (uuid c2326f30-c7d7-4b38-bd4f-380916ef82d8))
+  (no_connect (at 90.805 151.13) (uuid c490618b-f3e2-47ea-a50f-61383e4b2afc))
+  (no_connect (at 123.825 100.33) (uuid cc510293-b680-4728-9cfa-46ddd630c904))
+  (no_connect (at 123.825 138.43) (uuid d5c60fa9-4ebf-4256-a268-926376974cd7))
+  (no_connect (at 123.825 97.79) (uuid d8dd9627-18d0-43a4-943f-5884368de92e))
+  (no_connect (at 90.805 113.03) (uuid e1f4fa0b-733d-4b94-8962-20de5c671344))
+  (no_connect (at 90.805 128.27) (uuid eb30ddca-f8eb-4356-a11f-42e686984c42))
+  (no_connect (at 123.825 95.25) (uuid ec8fbc6b-0bfa-4d02-904b-d5cafce3290b))
+  (no_connect (at 123.825 102.87) (uuid ee95a65b-73c9-401b-bcef-56caeac42a5b))
 
   (wire (pts (xy 153.67 39.37) (xy 154.305 39.37))
     (stroke (width 0) (type default))
     (uuid 0117fe92-8707-4aca-a2d7-d750ec8637ac)
+  )
+  (wire (pts (xy 120.65 216.535) (xy 147.32 216.535))
+    (stroke (width 0) (type default))
+    (uuid 0191619f-8ff5-49a2-aa4b-f31d4b044882)
   )
   (wire (pts (xy 57.785 239.395) (xy 57.785 240.665))
     (stroke (width 0) (type default))
@@ -1768,7 +1772,7 @@
     (stroke (width 0) (type default))
     (uuid 0a6da587-146a-4299-86c4-9a382f3b45e4)
   )
-  (wire (pts (xy 123.952 123.19) (xy 147.955 123.19))
+  (wire (pts (xy 123.825 123.19) (xy 147.955 123.19))
     (stroke (width 0) (type default))
     (uuid 0b41ce1f-6c3a-4a32-9855-62271ee25103)
   )
@@ -1784,7 +1788,7 @@
     (stroke (width 0) (type default))
     (uuid 0f0e81a5-e3ab-47db-bbdd-6f1b87d9bc6e)
   )
-  (wire (pts (xy 103.632 83.82) (xy 103.632 85.09))
+  (wire (pts (xy 103.505 83.82) (xy 103.505 85.09))
     (stroke (width 0) (type default))
     (uuid 0f9f6cc6-fbab-4f24-9ae9-30be1608e3fc)
   )
@@ -1808,7 +1812,7 @@
     (stroke (width 0) (type default))
     (uuid 16522094-e04f-4fe9-af7b-cff3f525ae16)
   )
-  (wire (pts (xy 103.632 78.74) (xy 103.632 83.82))
+  (wire (pts (xy 103.505 78.74) (xy 103.505 83.82))
     (stroke (width 0) (type default))
     (uuid 167e7707-6f03-45d5-982a-eb02c1271554)
   )
@@ -1839,10 +1843,6 @@
   (wire (pts (xy 243.205 108.585) (xy 300.355 108.585))
     (stroke (width 0) (type default))
     (uuid 1c526077-28f8-4bc8-8ce4-429abeed8136)
-  )
-  (wire (pts (xy 161.925 82.55) (xy 151.13 82.55))
-    (stroke (width 0) (type default))
-    (uuid 1c8f4638-20d3-44ee-b27a-5787469b39ba)
   )
   (wire (pts (xy 306.705 132.715) (xy 319.405 132.715))
     (stroke (width 0) (type default))
@@ -1884,19 +1884,15 @@
     (stroke (width 0) (type default))
     (uuid 2375c192-b910-4ac9-92c0-ff6dc8d3c4dc)
   )
-  (wire (pts (xy 151.13 82.55) (xy 151.13 88.265))
-    (stroke (width 0) (type default))
-    (uuid 23cded65-f8c6-440d-9b3b-e5ee6935f726)
-  )
-  (wire (pts (xy 108.712 177.546) (xy 108.712 176.53))
+  (wire (pts (xy 108.585 177.8) (xy 108.585 176.53))
     (stroke (width 0) (type default))
     (uuid 25babe4d-b220-43f4-a595-8149bcec6924)
   )
-  (wire (pts (xy 63.5 146.05) (xy 90.932 146.05))
+  (wire (pts (xy 63.5 146.05) (xy 90.805 146.05))
     (stroke (width 0) (type default))
     (uuid 25e0f47a-9179-40c1-8233-e2b042be6c0b)
   )
-  (wire (pts (xy 123.952 118.11) (xy 127.635 118.11))
+  (wire (pts (xy 123.825 118.11) (xy 127.635 118.11))
     (stroke (width 0) (type default))
     (uuid 2969b257-ed04-47b6-861c-99b08e683ce8)
   )
@@ -1920,13 +1916,9 @@
     (stroke (width 0) (type default))
     (uuid 305cae2d-da83-4280-b291-3768a9655d0a)
   )
-  (wire (pts (xy 106.172 177.546) (xy 108.712 177.546))
+  (wire (pts (xy 106.045 177.8) (xy 108.585 177.8))
     (stroke (width 0) (type default))
     (uuid 30d26e69-9b84-44de-80a3-6238d1f4129a)
-  )
-  (wire (pts (xy 151.13 82.55) (xy 130.81 82.55))
-    (stroke (width 0) (type default))
-    (uuid 311e8593-7545-40d5-b25f-1296795ffa2c)
   )
   (wire (pts (xy 313.055 173.99) (xy 313.055 191.135))
     (stroke (width 0) (type default))
@@ -1936,7 +1928,7 @@
     (stroke (width 0) (type default))
     (uuid 357564c0-4b15-42be-ac6b-9264917cd635)
   )
-  (wire (pts (xy 106.172 177.546) (xy 106.172 176.53))
+  (wire (pts (xy 106.045 177.8) (xy 106.045 176.53))
     (stroke (width 0) (type default))
     (uuid 363a32fd-ac81-4ed4-b486-dd6782d829bb)
   )
@@ -1944,15 +1936,15 @@
     (stroke (width 0) (type default))
     (uuid 37db6f19-9af4-4b08-8416-7c336d862f39)
   )
-  (wire (pts (xy 63.5 105.41) (xy 90.932 105.41))
+  (wire (pts (xy 63.5 105.41) (xy 90.805 105.41))
     (stroke (width 0) (type default))
     (uuid 381c33ad-750a-4073-b1c4-9e7d59929d7d)
   )
-  (wire (pts (xy 90.932 100.33) (xy 66.04 100.33))
+  (wire (pts (xy 90.805 100.33) (xy 66.04 100.33))
     (stroke (width 0) (type default))
     (uuid 3979fe8f-4682-45f8-8877-efacc17df619)
   )
-  (wire (pts (xy 108.712 85.09) (xy 108.712 83.82))
+  (wire (pts (xy 108.585 85.09) (xy 108.585 83.82))
     (stroke (width 0) (type default))
     (uuid 3c323d47-51f5-4c56-9bc6-1c929fa47f64)
   )
@@ -1980,11 +1972,11 @@
     (stroke (width 0) (type default))
     (uuid 3e45b9fb-65a7-476b-96e1-a87c76c49cec)
   )
-  (wire (pts (xy 144.145 97.79) (xy 151.13 97.79))
+  (wire (pts (xy 141.605 205.105) (xy 147.32 205.105))
     (stroke (width 0) (type default))
-    (uuid 3ee7d204-7dc0-4905-9038-000d580d8f2e)
+    (uuid 3e6c5d27-d558-4f55-87b3-8e75ef0ecb30)
   )
-  (wire (pts (xy 63.5 148.59) (xy 90.932 148.59))
+  (wire (pts (xy 63.5 148.59) (xy 90.805 148.59))
     (stroke (width 0) (type default))
     (uuid 3f3f5377-f3bd-431b-89e5-5a5a6e541dc5)
   )
@@ -2024,13 +2016,13 @@
     (stroke (width 0) (type default))
     (uuid 47bed720-c68d-4627-bde4-a47c27025ed1)
   )
+  (wire (pts (xy 168.91 201.93) (xy 153.035 201.93))
+    (stroke (width 0) (type default))
+    (uuid 48922da5-49b5-4c20-baa3-5477aa27395d)
+  )
   (wire (pts (xy 325.755 103.505) (xy 325.755 122.555))
     (stroke (width 0) (type default))
     (uuid 4a8ef6f2-92d8-4705-8e8d-4b2e6f495585)
-  )
-  (wire (pts (xy 123.952 97.79) (xy 144.145 97.79))
-    (stroke (width 0) (type default))
-    (uuid 4c3270b3-b121-4edd-94ee-0efdfc37d7fe)
   )
   (wire (pts (xy 313.055 122.555) (xy 313.055 139.7))
     (stroke (width 0) (type default))
@@ -2052,13 +2044,9 @@
     (stroke (width 0) (type default))
     (uuid 521f5571-a034-4e7a-9873-8e062f7e3d8e)
   )
-  (wire (pts (xy 123.952 148.59) (xy 147.955 148.59))
+  (wire (pts (xy 123.825 148.59) (xy 147.955 148.59))
     (stroke (width 0) (type default))
     (uuid 525da5b2-0256-403b-a013-e94fb871b716)
-  )
-  (wire (pts (xy 130.81 82.55) (xy 130.81 88.265))
-    (stroke (width 0) (type default))
-    (uuid 53821cfc-59a9-4771-b93e-25ee3f33f2d8)
   )
   (wire (pts (xy 57.785 239.395) (xy 84.455 239.395))
     (stroke (width 0) (type default))
@@ -2076,11 +2064,11 @@
     (stroke (width 0) (type default))
     (uuid 5942e0c0-9bab-460b-822b-4093d16f4559)
   )
-  (wire (pts (xy 63.5 95.25) (xy 90.932 95.25))
+  (wire (pts (xy 63.5 95.25) (xy 90.805 95.25))
     (stroke (width 0) (type default))
     (uuid 59782ba7-bdfa-4ac3-9255-294fed353bec)
   )
-  (wire (pts (xy 113.792 85.09) (xy 113.792 83.82))
+  (wire (pts (xy 113.665 85.09) (xy 113.665 83.82))
     (stroke (width 0) (type default))
     (uuid 5a402717-87ef-4e36-a667-56c7ad35dbd2)
   )
@@ -2092,7 +2080,7 @@
     (stroke (width 0) (type default))
     (uuid 5a9a9761-2046-46d5-928a-1eb1bca95a1c)
   )
-  (wire (pts (xy 123.952 153.67) (xy 147.955 153.67))
+  (wire (pts (xy 123.825 153.67) (xy 147.955 153.67))
     (stroke (width 0) (type default))
     (uuid 5b8d3b70-10f5-4535-ab9b-a2513cdf2daa)
   )
@@ -2112,15 +2100,15 @@
     (stroke (width 0) (type default))
     (uuid 61a93096-c80a-4d6c-9a1f-5035eeec61fb)
   )
-  (wire (pts (xy 136.525 93.345) (xy 136.525 95.25))
+  (wire (pts (xy 153.035 216.535) (xy 147.32 216.535))
     (stroke (width 0) (type default))
-    (uuid 664381ae-431d-4c4f-a8db-a8c33ced8f45)
+    (uuid 633ba20f-b7fe-4b3b-8ec6-346ff9f6528a)
   )
   (wire (pts (xy 274.955 139.7) (xy 276.225 139.7))
     (stroke (width 0) (type default))
     (uuid 66942fd3-010e-46f2-b188-ecec9d41585a)
   )
-  (wire (pts (xy 63.5 107.95) (xy 90.932 107.95))
+  (wire (pts (xy 63.5 107.95) (xy 90.805 107.95))
     (stroke (width 0) (type default))
     (uuid 6797bc61-0160-4ce6-9ad4-28c314f0bd47)
   )
@@ -2164,7 +2152,11 @@
     (stroke (width 0) (type default))
     (uuid 729980fe-7d25-4c51-9b2f-3e1123d8b15c)
   )
-  (wire (pts (xy 123.952 125.73) (xy 147.955 125.73))
+  (wire (pts (xy 147.32 205.105) (xy 168.91 205.105))
+    (stroke (width 0) (type default))
+    (uuid 72d5b6ac-8fde-48c4-bd75-072243dbb6b7)
+  )
+  (wire (pts (xy 123.825 125.73) (xy 147.955 125.73))
     (stroke (width 0) (type default))
     (uuid 737d195e-bcda-4730-a6b7-171fd0274520)
   )
@@ -2200,6 +2192,10 @@
     (stroke (width 0) (type default))
     (uuid 7c0ad1cc-b84d-48dd-806b-40dd557524cf)
   )
+  (wire (pts (xy 147.32 205.105) (xy 147.32 207.01))
+    (stroke (width 0) (type default))
+    (uuid 7c34555b-2d42-4c14-b95f-74859ea1260d)
+  )
   (wire (pts (xy 287.655 173.99) (xy 287.655 191.135))
     (stroke (width 0) (type default))
     (uuid 7e6d6c4b-d1e4-4f07-a1ae-85bc7032c34b)
@@ -2220,13 +2216,13 @@
     (stroke (width 0) (type default))
     (uuid 807e4dc2-6d01-4b46-b099-09320c468e02)
   )
+  (wire (pts (xy 141.605 207.01) (xy 141.605 205.105))
+    (stroke (width 0) (type default))
+    (uuid 80cd41dd-a537-4703-86eb-2dab556d2f13)
+  )
   (wire (pts (xy 153.67 34.29) (xy 153.67 39.37))
     (stroke (width 0) (type default))
     (uuid 816f7c36-8ed8-4803-b4ad-0a6ee0bdfc5a)
-  )
-  (wire (pts (xy 151.13 97.79) (xy 151.13 93.345))
-    (stroke (width 0) (type default))
-    (uuid 8326a982-2be3-4b8d-becc-61631d5b2c48)
   )
   (wire (pts (xy 90.805 50.8) (xy 90.805 56.515))
     (stroke (width 0) (type default))
@@ -2244,17 +2240,13 @@
     (stroke (width 0) (type default))
     (uuid 87d47864-086e-4938-a4b7-f3171d8bca8d)
   )
-  (wire (pts (xy 123.952 120.65) (xy 127.635 120.65))
+  (wire (pts (xy 123.825 120.65) (xy 127.635 120.65))
     (stroke (width 0) (type default))
     (uuid 8840b64f-844d-435f-b2ea-0ff3e0f84b8a)
   )
   (wire (pts (xy 62.865 244.475) (xy 62.865 254.635))
     (stroke (width 0) (type default))
     (uuid 88af9bae-8793-474d-b738-d0b4ad37591d)
-  )
-  (wire (pts (xy 136.525 88.265) (xy 136.525 85.725))
-    (stroke (width 0) (type default))
-    (uuid 8f5f23b3-5ffa-47f7-927c-a3a41092f77f)
   )
   (wire (pts (xy 243.205 113.665) (xy 274.955 113.665))
     (stroke (width 0) (type default))
@@ -2272,7 +2264,7 @@
     (stroke (width 0) (type default))
     (uuid 92e08dce-90f3-425d-8173-00d9a9c9c73d)
   )
-  (wire (pts (xy 113.792 83.82) (xy 111.252 83.82))
+  (wire (pts (xy 113.665 83.82) (xy 111.125 83.82))
     (stroke (width 0) (type default))
     (uuid 93597689-be61-419f-940f-0f414b85dc55)
   )
@@ -2284,11 +2276,7 @@
     (stroke (width 0) (type default))
     (uuid 94deb336-aa82-42b9-bbae-caceeb5129e6)
   )
-  (wire (pts (xy 144.145 85.725) (xy 144.145 88.265))
-    (stroke (width 0) (type default))
-    (uuid 955efdfe-20e1-4214-90b6-76098f6a4291)
-  )
-  (wire (pts (xy 123.952 146.05) (xy 147.955 146.05))
+  (wire (pts (xy 123.825 146.05) (xy 147.955 146.05))
     (stroke (width 0) (type default))
     (uuid 9681b317-aeeb-44a7-a226-60ae6dd1746e)
   )
@@ -2296,7 +2284,7 @@
     (stroke (width 0) (type default))
     (uuid 977c28a5-d868-4291-a383-0ca3b55f7bb4)
   )
-  (wire (pts (xy 123.952 128.27) (xy 148.082 128.27))
+  (wire (pts (xy 123.825 128.27) (xy 147.955 128.27))
     (stroke (width 0) (type default))
     (uuid 9785f745-75fd-4afe-9d21-e9d1c38d4a24)
   )
@@ -2311,10 +2299,6 @@
   (wire (pts (xy 140.335 46.99) (xy 154.305 46.99))
     (stroke (width 0) (type default))
     (uuid 9ae820ef-4bdf-4238-a6a0-e7edc7eb13d6)
-  )
-  (wire (pts (xy 136.525 85.725) (xy 144.145 85.725))
-    (stroke (width 0) (type default))
-    (uuid 9b1af03d-3842-4f2b-a78a-c2104136505b)
   )
   (wire (pts (xy 313.055 173.99) (xy 314.325 173.99))
     (stroke (width 0) (type default))
@@ -2332,7 +2316,7 @@
     (stroke (width 0) (type default))
     (uuid 9d5c1f74-4a60-461c-b839-93813fe82a0f)
   )
-  (wire (pts (xy 63.5 143.51) (xy 90.932 143.51))
+  (wire (pts (xy 63.5 143.51) (xy 90.805 143.51))
     (stroke (width 0) (type default))
     (uuid 9e9bfda3-c528-45f8-9efc-32fae375c3fa)
   )
@@ -2344,6 +2328,18 @@
     (stroke (width 0) (type default))
     (uuid a160cc4d-947f-4f65-9e51-6565314cd1f5)
   )
+  (wire (pts (xy 120.65 213.995) (xy 135.89 213.995))
+    (stroke (width 0) (type default))
+    (uuid a18b8c8c-389c-4337-a9c2-8089c3119d3c)
+  )
+  (wire (pts (xy 147.32 212.09) (xy 147.32 216.535))
+    (stroke (width 0) (type default))
+    (uuid a1fdf343-4492-44c2-b31e-2c4957142e45)
+  )
+  (wire (pts (xy 153.035 201.93) (xy 153.035 207.01))
+    (stroke (width 0) (type default))
+    (uuid a2cfdf36-ca5d-4d2f-85f9-1b5102df810b)
+  )
   (wire (pts (xy 287.655 173.99) (xy 288.925 173.99))
     (stroke (width 0) (type default))
     (uuid a34fb6f0-adcb-42b8-b3a5-e086f5e4bb6e)
@@ -2352,9 +2348,13 @@
     (stroke (width 0) (type default))
     (uuid a3d73a8c-14ed-46aa-8eb3-7c6ac9b991a0)
   )
-  (wire (pts (xy 106.172 177.546) (xy 106.172 182.88))
+  (wire (pts (xy 106.045 177.8) (xy 106.045 182.88))
     (stroke (width 0) (type default))
     (uuid a60fb59b-96d5-451e-a969-dcf8d2a4139e)
+  )
+  (wire (pts (xy 135.89 207.01) (xy 135.89 201.93))
+    (stroke (width 0) (type default))
+    (uuid a6392588-ec03-4c00-9721-65ee4a5befb6)
   )
   (wire (pts (xy 138.43 254.635) (xy 138.43 243.84))
     (stroke (width 0) (type default))
@@ -2364,11 +2364,11 @@
     (stroke (width 0) (type default))
     (uuid a6e15dc5-9c8d-43df-86ce-2fbdf9733ad0)
   )
-  (wire (pts (xy 108.712 83.82) (xy 106.172 83.82))
+  (wire (pts (xy 108.585 83.82) (xy 106.045 83.82))
     (stroke (width 0) (type default))
     (uuid aa12d028-5345-4515-a655-db4cf7f5140e)
   )
-  (wire (pts (xy 123.952 140.97) (xy 147.955 140.97))
+  (wire (pts (xy 123.825 140.97) (xy 147.955 140.97))
     (stroke (width 0) (type default))
     (uuid aa1f0031-c43c-4219-a667-d5352ea9ea82)
   )
@@ -2376,7 +2376,7 @@
     (stroke (width 0) (type default))
     (uuid aaba7b3e-490d-4f3a-9114-025ecab4abe9)
   )
-  (wire (pts (xy 123.952 156.21) (xy 147.955 156.21))
+  (wire (pts (xy 123.825 156.21) (xy 147.955 156.21))
     (stroke (width 0) (type default))
     (uuid aae43d6f-f9ef-4b10-a567-75cade03cf49)
   )
@@ -2384,11 +2384,7 @@
     (stroke (width 0) (type default))
     (uuid aae5d79d-64e8-42ea-8862-ddc29b8db2e4)
   )
-  (wire (pts (xy 130.81 95.25) (xy 136.525 95.25))
-    (stroke (width 0) (type default))
-    (uuid ac0b5490-ee8d-42a9-81ee-354120feec6a)
-  )
-  (wire (pts (xy 84.328 161.29) (xy 90.932 161.29))
+  (wire (pts (xy 84.455 161.29) (xy 90.805 161.29))
     (stroke (width 0) (type default))
     (uuid ac5b6936-42de-4b70-aeac-7c941c47f711)
   )
@@ -2416,17 +2412,9 @@
     (stroke (width 0) (type default))
     (uuid b56564b9-91bd-4a53-b1f6-daeeb8989311)
   )
-  (wire (pts (xy 144.145 93.345) (xy 144.145 97.79))
-    (stroke (width 0) (type default))
-    (uuid b5d9d0b6-adc9-4dc6-a482-e721c3f442e4)
-  )
   (wire (pts (xy 243.205 167.005) (xy 268.605 167.005))
     (stroke (width 0) (type default))
     (uuid b86a561c-145a-4243-b3f6-90e9884ade8e)
-  )
-  (wire (pts (xy 144.145 85.725) (xy 161.925 85.725))
-    (stroke (width 0) (type default))
-    (uuid b8b20286-59c5-4daa-8c5f-6808705178b4)
   )
   (wire (pts (xy 325.755 122.555) (xy 325.755 139.7))
     (stroke (width 0) (type default))
@@ -2456,7 +2444,7 @@
     (stroke (width 0) (type default))
     (uuid bd369254-564b-4193-b2a6-43153dcdb0a0)
   )
-  (wire (pts (xy 63.5 118.11) (xy 90.932 118.11))
+  (wire (pts (xy 63.5 118.11) (xy 90.805 118.11))
     (stroke (width 0) (type default))
     (uuid bda613a4-6dbe-45d8-ac8a-fc3123ccbbe1)
   )
@@ -2472,10 +2460,6 @@
     (stroke (width 0) (type default))
     (uuid bf051368-7ae6-4413-9cb4-c99757fe963a)
   )
-  (wire (pts (xy 130.81 95.25) (xy 130.81 93.345))
-    (stroke (width 0) (type default))
-    (uuid bf4ef579-aa50-491b-884f-aa89ec15b6e3)
-  )
   (wire (pts (xy 319.405 184.15) (xy 332.105 184.15))
     (stroke (width 0) (type default))
     (uuid c0437527-7c11-423d-955c-1a05410895b5)
@@ -2484,7 +2468,7 @@
     (stroke (width 0) (type default))
     (uuid c15c541e-1c87-4939-b2c0-f47bb3e43221)
   )
-  (wire (pts (xy 106.172 85.09) (xy 106.172 83.82))
+  (wire (pts (xy 106.045 85.09) (xy 106.045 83.82))
     (stroke (width 0) (type default))
     (uuid c2713e01-0fc4-4503-8254-45396dfa4704)
   )
@@ -2500,7 +2484,11 @@
     (stroke (width 0) (type default))
     (uuid c582af4d-4a43-4c43-9541-acdf13825907)
   )
-  (wire (pts (xy 84.328 170.688) (xy 84.328 161.29))
+  (wire (pts (xy 135.89 201.93) (xy 153.035 201.93))
+    (stroke (width 0) (type default))
+    (uuid c6052896-522a-4157-beb8-daaf44d58cc2)
+  )
+  (wire (pts (xy 84.455 170.815) (xy 84.455 161.29))
     (stroke (width 0) (type default))
     (uuid c685d8ab-fcea-46c7-9901-5ee44b37373f)
   )
@@ -2516,9 +2504,13 @@
     (stroke (width 0) (type default))
     (uuid c84f6bcb-7e0b-406d-b411-5e05a714cd57)
   )
-  (wire (pts (xy 84.328 175.768) (xy 84.328 183.134))
+  (wire (pts (xy 84.455 175.895) (xy 84.455 182.88))
     (stroke (width 0) (type default))
     (uuid c8b8fd70-2fd8-43c3-8b4e-f0c508dcc95f)
+  )
+  (wire (pts (xy 141.605 213.995) (xy 141.605 212.09))
+    (stroke (width 0) (type default))
+    (uuid c985929c-7021-4c4f-9e77-45916e0cf4c7)
   )
   (wire (pts (xy 290.195 38.1) (xy 290.195 41.275))
     (stroke (width 0) (type default))
@@ -2544,7 +2536,7 @@
     (stroke (width 0) (type default))
     (uuid cd94b0cb-9d33-4134-b9d7-f82f3a995c70)
   )
-  (wire (pts (xy 63.5 123.19) (xy 90.932 123.19))
+  (wire (pts (xy 63.5 123.19) (xy 90.805 123.19))
     (stroke (width 0) (type default))
     (uuid cd9d038c-a004-4a83-b599-de0f563d50d0)
   )
@@ -2560,13 +2552,9 @@
     (stroke (width 0) (type default))
     (uuid d2493d15-5615-412c-8e29-30aa50a6f51f)
   )
-  (wire (pts (xy 123.952 143.51) (xy 147.955 143.51))
+  (wire (pts (xy 123.825 143.51) (xy 147.955 143.51))
     (stroke (width 0) (type default))
     (uuid d6273aa4-4647-4dba-97a5-ee31d679096d)
-  )
-  (wire (pts (xy 123.952 95.25) (xy 130.81 95.25))
-    (stroke (width 0) (type default))
-    (uuid d755f4ac-481f-4a86-ade0-81fdd0f2b27c)
   )
   (wire (pts (xy 274.955 113.665) (xy 274.955 122.555))
     (stroke (width 0) (type default))
@@ -2588,7 +2576,15 @@
     (stroke (width 0) (type default))
     (uuid dbf112ce-c94a-41cd-937d-c01140c0d464)
   )
-  (wire (pts (xy 63.5 90.17) (xy 90.932 90.17))
+  (wire (pts (xy 135.89 213.995) (xy 141.605 213.995))
+    (stroke (width 0) (type default))
+    (uuid dc34bd0c-db86-4f04-b4f3-d607bed04f62)
+  )
+  (wire (pts (xy 63.5 135.89) (xy 90.805 135.89))
+    (stroke (width 0) (type default))
+    (uuid dc69f79b-d737-4d9f-9869-8cc26a46493f)
+  )
+  (wire (pts (xy 63.5 90.17) (xy 90.805 90.17))
     (stroke (width 0) (type default))
     (uuid dd924196-cdb5-48fb-917e-119412376b53)
   )
@@ -2616,7 +2612,7 @@
     (stroke (width 0) (type default))
     (uuid e34d7a5a-606f-47cb-9f09-e707160d8de7)
   )
-  (wire (pts (xy 123.952 151.13) (xy 147.955 151.13))
+  (wire (pts (xy 123.825 151.13) (xy 147.955 151.13))
     (stroke (width 0) (type default))
     (uuid e39379d2-895c-49dd-82bf-d293fe3d08d6)
   )
@@ -2624,9 +2620,13 @@
     (stroke (width 0) (type default))
     (uuid e582cb7b-7781-4ad6-b1bd-c5cc129e0792)
   )
-  (wire (pts (xy 63.5 120.65) (xy 90.932 120.65))
+  (wire (pts (xy 63.5 120.65) (xy 90.805 120.65))
     (stroke (width 0) (type default))
     (uuid e598432f-9bc9-4c4e-ad30-a13f9d1d4d2e)
+  )
+  (wire (pts (xy 135.89 212.09) (xy 135.89 213.995))
+    (stroke (width 0) (type default))
+    (uuid e64713c5-28c5-47ab-b0a9-75ebb41fe10b)
   )
   (wire (pts (xy 267.335 49.53) (xy 278.765 49.53))
     (stroke (width 0) (type default))
@@ -2644,7 +2644,7 @@
     (stroke (width 0) (type default))
     (uuid e8d764c1-333b-4ea7-8bb0-60d4386855bb)
   )
-  (wire (pts (xy 106.172 83.82) (xy 103.632 83.82))
+  (wire (pts (xy 106.045 83.82) (xy 103.505 83.82))
     (stroke (width 0) (type default))
     (uuid ea37ae61-71b0-43a4-8eb1-33a24005c9ae)
   )
@@ -2668,11 +2668,15 @@
     (stroke (width 0) (type default))
     (uuid ee005727-8390-4a4e-94f5-7bc9a6b07d9f)
   )
-  (wire (pts (xy 111.252 83.82) (xy 108.712 83.82))
+  (wire (pts (xy 111.125 83.82) (xy 108.585 83.82))
     (stroke (width 0) (type default))
     (uuid f05e643c-9d15-4096-a673-0ce703a54fb7)
   )
-  (wire (pts (xy 111.252 85.09) (xy 111.252 83.82))
+  (wire (pts (xy 153.035 212.09) (xy 153.035 216.535))
+    (stroke (width 0) (type default))
+    (uuid f4371428-729d-40cc-a2a1-a84508de8d8f)
+  )
+  (wire (pts (xy 111.125 85.09) (xy 111.125 83.82))
     (stroke (width 0) (type default))
     (uuid f61397ea-9877-408b-8349-c39ad3a35f65)
   )
@@ -2696,6 +2700,10 @@
     (stroke (width 0) (type default))
     (uuid fd34a232-3c1b-4f1d-aef9-5de31fc6637e)
   )
+  (wire (pts (xy 63.5 133.35) (xy 90.805 133.35))
+    (stroke (width 0) (type default))
+    (uuid fda4c68b-209d-453d-9970-3127d15c7418)
+  )
   (wire (pts (xy 90.805 40.64) (xy 97.155 40.64))
     (stroke (width 0) (type default))
     (uuid ffc7b21b-ee00-4e86-8290-0549f1ccb669)
@@ -2713,6 +2721,10 @@
   (text "C_l = 12pF" (at 55.245 238.125 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e21196dd-fece-4e1a-b6e3-f98ce05fd27b)
+  )
+  (text "UART lines are crossed on right half" (at 159.385 210.82 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e8a3cda8-dedd-4db8-81e1-3bbf2f00a015)
   )
 
   (label "ENC_A" (at 63.5 120.65 0) (fields_autoplaced)
@@ -2750,6 +2762,10 @@
   (label "SPLIT_RX" (at 140.335 49.53 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1c078ba4-7d1b-449a-b75a-31eb5ccb0c8c)
+  )
+  (label "UART_TX" (at 120.65 213.995 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1ed27376-c04b-4b23-b1a9-f684f097e35e)
   )
   (label "SWCLK" (at 147.955 125.73 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -2795,7 +2811,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4cc50660-6906-4e6b-a70a-15073b216eaa)
   )
-  (label "SPLIT_TX" (at 161.925 82.55 180) (fields_autoplaced)
+  (label "SPLIT_TX" (at 168.91 201.93 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5440446a-58a9-4d75-9acd-f4fb79dfcc52)
   )
@@ -2851,6 +2867,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 91a2198c-6aea-46ce-94b1-13b393d7002f)
   )
+  (label "UART_RX" (at 63.5 135.89 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 974bbc45-b805-41fd-91bb-89399406fd3b)
+  )
   (label "ENC_SW_1" (at 352.425 191.135 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid bf5d17b7-5f72-44ef-96d1-43ae198d67bb)
@@ -2859,7 +2879,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bf9e7f7b-234a-4506-8216-ea6713ed7acc)
   )
-  (label "COL2" (at 148.082 128.27 180) (fields_autoplaced)
+  (label "COL2" (at 147.955 128.27 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c0ee65e9-4bbe-4dd0-8a28-5885cfbeea51)
   )
@@ -2871,7 +2891,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c6858c93-7b46-498b-8293-d02f59fb844e)
   )
-  (label "SPLIT_RX" (at 161.925 85.725 180) (fields_autoplaced)
+  (label "SPLIT_RX" (at 168.91 205.105 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c6b37a9a-5cef-4eb3-8916-ce1c9e7925fd)
   )
@@ -2883,9 +2903,17 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cd7cde0c-805a-49b3-839a-66e138e4e76d)
   )
+  (label "UART_TX" (at 63.5 133.35 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cee56b5c-bc4a-4147-a7a8-a9938a85e31b)
+  )
   (label "SWDIO" (at 201.93 246.38 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d04736b0-835a-44e5-b50f-ce1d759049ad)
+  )
+  (label "UART_RX" (at 120.65 216.535 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d0ae71bf-0ea5-4220-8ba9-8a27fa85f400)
   )
   (label "ROW0" (at 243.205 132.715 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -2942,7 +2970,7 @@
     (pin "1" (uuid 561a1c61-7606-4a7b-b35d-52a77ef288c6))
     (pin "2" (uuid c1de4fb6-aa42-4fce-b1b7-c5adef935e73))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX17") (unit 1)
         )
@@ -2959,7 +2987,7 @@
     (property "Value" "100n" (at 325.755 45.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 323.215 43.815 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 323.215 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 323.215 43.815 0)
@@ -2968,7 +2996,7 @@
     (pin "2" (uuid d5fc4e7f-02c4-4f00-bf27-4497442b355b))
     (pin "1" (uuid 53bbff30-07ec-4056-9d26-d4958c08ce70))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C6") (unit 1)
         )
@@ -3000,7 +3028,7 @@
     (pin "2" (uuid 01bc33ad-b0d7-4c0a-98b5-28556cfad0c5))
     (pin "1" (uuid ed4c24cf-fcae-4187-8307-8cfb142b7e68))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D22") (unit 1)
         )
@@ -3017,7 +3045,7 @@
     (property "Value" "1k" (at 73.025 247.015 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 73.025 249.555 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 73.025 249.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.025 249.555 0)
@@ -3026,7 +3054,7 @@
     (pin "1" (uuid bcf29d7f-d7ff-4ffd-baa5-14c4d1820a63))
     (pin "2" (uuid 40a5416c-d832-4506-b793-4c6338c767be))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "R12") (unit 1)
         )
@@ -3043,7 +3071,7 @@
     (property "Value" "100n" (at 304.165 45.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 301.625 43.815 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 301.625 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 301.625 43.815 0)
@@ -3052,7 +3080,7 @@
     (pin "2" (uuid 6abcd196-0b31-4e6f-bf36-1a78b5c5c548))
     (pin "1" (uuid c37c2d86-241c-47a4-b25c-054071199dbd))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C4") (unit 1)
         )
@@ -3063,13 +3091,13 @@
   (symbol (lib_id "Device:R_Small") (at 130.175 120.65 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09d98a4d-af4b-4977-8ee8-f70f348aa853)
-    (property "Reference" "R6" (at 128.27 119.38 90)
+    (property "Reference" "R2" (at 128.27 119.38 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "27" (at 134.62 119.38 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 130.175 120.65 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 130.175 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 130.175 120.65 0)
@@ -3078,9 +3106,9 @@
     (pin "1" (uuid ce3788fd-2017-418e-9c07-d22dab0e620c))
     (pin "2" (uuid d5b8b247-e3b4-4f01-8446-993801e1e8db))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "R6") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -3104,7 +3132,7 @@
     (pin "1" (uuid 7354ab7e-7f01-44a0-a7ee-5e1ee33c0aec))
     (pin "2" (uuid dd9e7192-5711-41ae-a835-2b7589768bdd))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX18") (unit 1)
         )
@@ -3130,7 +3158,7 @@
     (pin "1" (uuid 0de6a2be-0c4d-4329-b54b-a8b7efec7608))
     (pin "2" (uuid 9cebec62-1f05-4bc1-afec-0c291d2cccb6))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX21") (unit 1)
         )
@@ -3162,7 +3190,7 @@
     (pin "2" (uuid c5f9262d-8856-4608-b680-09b0a4479a43))
     (pin "1" (uuid 8c80d319-29d2-4e65-87c9-15f83a4ddae8))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D7") (unit 1)
         )
@@ -3179,7 +3207,7 @@
     (property "Value" "5.1k" (at 261.62 252.095 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 259.08 250.825 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 259.08 250.825 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 259.08 250.825 0)
@@ -3188,7 +3216,7 @@
     (pin "1" (uuid fad22420-29e8-46f0-80c4-ca32f23c5885))
     (pin "2" (uuid 3614c716-e8a0-448e-97d3-0f3ec1686957))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "R13") (unit 1)
         )
@@ -3219,7 +3247,7 @@
     (pin "5" (uuid a07cd8ba-6782-4c6d-a3af-482fb03b5fe5))
     (pin "1" (uuid 97892efb-3ca8-48e3-956d-bf7335038d07))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "J2") (unit 1)
         )
@@ -3230,7 +3258,7 @@
   (symbol (lib_id "Device:D_Small") (at 332.105 198.755 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 12036de5-ffe3-4d9f-ae5e-4eae6423e72b)
-    (property "Reference" "D30" (at 334.01 197.485 90)
+    (property "Reference" "D29" (at 334.01 197.485 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 334.01 200.025 90)
@@ -3251,9 +3279,9 @@
     (pin "2" (uuid 535f8af1-8331-4b0f-8e09-eac6390e2f58))
     (pin "1" (uuid 46366ebf-4399-4606-8068-ff1f52ab0fb6))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "D30") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -3277,7 +3305,7 @@
     (pin "1" (uuid a91f9fe3-e26b-4971-9936-092a5b1aef24))
     (pin "2" (uuid 888509c2-43b2-4728-bd4c-7e2f52e151ac))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX1") (unit 1)
         )
@@ -3303,7 +3331,7 @@
     (pin "1" (uuid 4be9ea3f-470b-42ad-8ef1-13d92a8cafb5))
     (pin "2" (uuid 8e6f1bdb-6f92-4ef2-992c-6214b2f94bf2))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX7") (unit 1)
         )
@@ -3314,7 +3342,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 291.465 193.675 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d7134b1-a08a-41dc-984f-cf76ee111739)
-    (property "Reference" "MX27" (at 291.465 186.69 0)
+    (property "Reference" "MX26" (at 291.465 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 291.465 189.23 0)
@@ -3329,9 +3357,9 @@
     (pin "1" (uuid d96f1a74-2ef6-4829-8009-15c6bacf2ec6))
     (pin "2" (uuid 79d0397a-5530-43f2-9929-e7b466d215a0))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "MX27") (unit 1)
+          (reference "MX26") (unit 1)
         )
       )
     )
@@ -3346,7 +3374,7 @@
     (property "Value" "22p" (at 44.45 255.27 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 45.72 249.555 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 45.72 249.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 45.72 249.555 0)
@@ -3355,7 +3383,7 @@
     (pin "2" (uuid 8f0e55fc-5a16-4bf0-aae6-9eaec5665e28))
     (pin "1" (uuid efc34e43-e052-480e-82cc-efdbf71d5d5b))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C13") (unit 1)
         )
@@ -3366,13 +3394,13 @@
   (symbol (lib_id "Device:R_Small") (at 130.175 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 24900217-72c3-4ecc-ba3f-747fb4e83da8)
-    (property "Reference" "R5" (at 128.27 116.84 90)
+    (property "Reference" "R1" (at 128.27 116.84 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "27" (at 134.62 116.84 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 130.175 118.11 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 130.175 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 130.175 118.11 0)
@@ -3381,9 +3409,9 @@
     (pin "1" (uuid b2360a25-1dcc-4e40-8374-f6f5577eada6))
     (pin "2" (uuid e59bda71-56ef-4bc4-948c-7d71a3ce4404))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "R5") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -3407,7 +3435,7 @@
     (pin "1" (uuid c4ac689f-2767-444e-8328-3ef4215074df))
     (pin "2" (uuid aa2e34bf-7131-4478-bc81-a959a85d8605))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX22") (unit 1)
         )
@@ -3432,7 +3460,7 @@
     )
     (pin "1" (uuid ad6d7f3b-dc8f-46bd-8b5a-8ba1a9a42946))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR09") (unit 1)
         )
@@ -3464,7 +3492,7 @@
     (pin "2" (uuid 352bb434-cf2b-4a4a-96bd-9331ecbe6f6e))
     (pin "1" (uuid c5799806-69e2-4ba5-ab6a-e992e5ddde6f))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D16") (unit 1)
         )
@@ -3481,7 +3509,7 @@
     (property "Value" "100n" (at 292.735 45.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 290.195 43.815 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 290.195 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 290.195 43.815 0)
@@ -3490,7 +3518,7 @@
     (pin "2" (uuid 3865a5d0-fcef-43ea-9548-b10b4c809a0b))
     (pin "1" (uuid e8e272ff-961d-4f31-8c20-93b7f3ea5a36))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C3") (unit 1)
         )
@@ -3516,7 +3544,7 @@
     (pin "1" (uuid 0a16828c-d001-4fb4-8d20-fb594124cfb9))
     (pin "2" (uuid a132a31e-5e96-4619-866a-2cde3d5b9669))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX15") (unit 1)
         )
@@ -3533,7 +3561,7 @@
     (property "Value" "100n" (at 281.305 45.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 278.765 43.815 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 278.765 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 278.765 43.815 0)
@@ -3542,7 +3570,7 @@
     (pin "2" (uuid a8baa652-8a52-49d3-b690-6bd383e1fb09))
     (pin "1" (uuid 74440bde-55b8-4487-9205-8b34e552e39d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C2") (unit 1)
         )
@@ -3553,7 +3581,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 278.765 193.675 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 34607a3d-fa2c-4688-bcec-e5ae8e63b982)
-    (property "Reference" "MX26" (at 278.765 186.69 0)
+    (property "Reference" "MX25" (at 278.765 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 278.765 189.23 0)
@@ -3568,9 +3596,9 @@
     (pin "1" (uuid 61f607d0-d12e-4367-99e1-a3a35d3ebce9))
     (pin "2" (uuid 017f88b1-15f0-47b5-95c8-25ad24f2c728))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "MX26") (unit 1)
+          (reference "MX25") (unit 1)
         )
       )
     )
@@ -3593,7 +3621,7 @@
     )
     (pin "1" (uuid 7d70252f-8165-4ac1-8e0c-62e1243c87ce))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR026") (unit 1)
         )
@@ -3621,7 +3649,7 @@
     (pin "1" (uuid d12c6354-049c-42bb-8aea-837929ed6f8f))
     (pin "4" (uuid 397b21fc-c262-41fb-86ae-14f3a13ab0a0))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "Y1") (unit 1)
         )
@@ -3653,7 +3681,7 @@
     (pin "2" (uuid b39ad4ae-cc8d-4a3c-a054-563a7e8b3670))
     (pin "1" (uuid a6a9174a-be0f-46d2-a354-c330eaec8e71))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D11") (unit 1)
         )
@@ -3685,7 +3713,7 @@
     (pin "2" (uuid 8df9eda3-1def-4221-968c-1a47702f2e59))
     (pin "1" (uuid 638588d8-26c5-4a35-b411-faa47a7c6439))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D10") (unit 1)
         )
@@ -3717,7 +3745,7 @@
     (pin "2" (uuid 7c55b9b7-b978-46d8-a6ba-eb14f65f5e68))
     (pin "1" (uuid 5e6694e5-100b-49b7-a60f-1d1d1c96eda1))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D3") (unit 1)
         )
@@ -3734,7 +3762,7 @@
     (property "Value" "1u" (at 120.015 49.5363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 117.475 48.26 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 117.475 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 117.475 48.26 0)
@@ -3743,7 +3771,7 @@
     (pin "2" (uuid 44246db4-6fd6-4461-b2c8-5a3418bd2446))
     (pin "1" (uuid 265b4397-5584-4d96-ad0f-7f5c226e461d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C9") (unit 1)
         )
@@ -3775,7 +3803,7 @@
     (pin "2" (uuid 55d8c984-180d-4365-bc63-9a163c737f39))
     (pin "1" (uuid 41419d54-8a9b-43d7-bcad-faca61c54147))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D12") (unit 1)
         )
@@ -3807,7 +3835,7 @@
     (pin "2" (uuid c28478cc-cf94-4085-badd-720420a9454b))
     (pin "1" (uuid 05008c07-973e-4d28-9bb6-f96a2f61c43d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D15") (unit 1)
         )
@@ -3833,7 +3861,7 @@
     (pin "1" (uuid 29050f0d-f18f-4ec1-ba31-a2a942654730))
     (pin "2" (uuid 0b399268-659f-4d81-bb67-59a8451cc0c6))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX23") (unit 1)
         )
@@ -3858,7 +3886,7 @@
     )
     (pin "1" (uuid 5b265e65-4d49-44e7-9ae3-75426c6127f1))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR07") (unit 1)
         )
@@ -3883,7 +3911,7 @@
     )
     (pin "1" (uuid 13d8c73d-384e-4468-bb5e-e2a81bfcd24e))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR04") (unit 1)
         )
@@ -3900,7 +3928,7 @@
     (property "Value" "10u" (at 269.875 45.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 267.335 43.815 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 267.335 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.335 43.815 0)
@@ -3909,7 +3937,7 @@
     (pin "2" (uuid 8d352eb2-f8bf-4865-be18-8c86a7906553))
     (pin "1" (uuid fd480dd4-ab47-44ed-b543-c9f3140b0cb8))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C1") (unit 1)
         )
@@ -3935,7 +3963,7 @@
     (pin "2" (uuid 5dff6f80-b347-4c64-9f1e-b8e253aaf93e))
     (pin "1" (uuid da2b0d70-85eb-4df8-808d-804a6ed86cc7))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "J1") (unit 1)
         )
@@ -3967,7 +3995,7 @@
     (pin "2" (uuid cc0a5183-1f86-4ab1-a4d8-ccb9b6ab7260))
     (pin "1" (uuid 62137fba-6ad9-42c3-b5bf-a6181220f651))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D21") (unit 1)
         )
@@ -3984,7 +4012,7 @@
     (property "Value" "22p" (at 44.45 236.22 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 45.72 239.395 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 45.72 239.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 45.72 239.395 0)
@@ -3993,7 +4021,7 @@
     (pin "2" (uuid 45d20a43-a8d1-46ea-9da5-ef8fd74266aa))
     (pin "1" (uuid 05dedfdb-30f1-430e-bd13-2effaf8fdb75))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C12") (unit 1)
         )
@@ -4019,7 +4047,7 @@
     (pin "1" (uuid a0339208-db74-40a8-8af9-e8fe5b5585a1))
     (pin "2" (uuid 6f9116c3-88f2-4197-85fd-b96590bb569a))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX8") (unit 1)
         )
@@ -4027,25 +4055,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 84.328 173.228 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 84.455 173.355 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5471ecf4-b16e-4e83-b4d1-2e204417b3bd)
-    (property "Reference" "C11" (at 87.63 171.9643 0)
+    (property "Reference" "C11" (at 87.757 172.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (at 87.63 174.5043 0)
+    (property "Value" "100n" (at 87.757 174.6313 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 84.328 173.228 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 84.455 173.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 84.328 173.228 0)
+    (property "Datasheet" "~" (at 84.455 173.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid 85c5bf29-8b53-4505-8050-dc2e2cf56f7c))
     (pin "1" (uuid 0019c8b4-f067-45dc-8455-e8601e8eb72c))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C11") (unit 1)
         )
@@ -4056,7 +4084,7 @@
   (symbol (lib_id "Device:D_Small") (at 306.705 198.755 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 553968a0-a7c3-4a3e-9535-5e66618b982d)
-    (property "Reference" "D28" (at 308.61 197.485 90)
+    (property "Reference" "D27" (at 308.61 197.485 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 308.61 200.025 90)
@@ -4077,9 +4105,9 @@
     (pin "2" (uuid 4c8235ae-d515-48ce-9e80-a10d42624e9c))
     (pin "1" (uuid c0dbf6e7-7033-4edd-b1ff-80218aac9ec6))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "D28") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -4109,7 +4137,7 @@
     (pin "2" (uuid ac9521fe-598c-4d8a-a84c-ccabd2490d8b))
     (pin "1" (uuid 0c203578-f99d-4318-9108-fefbf4e9a613))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D1") (unit 1)
         )
@@ -4135,7 +4163,7 @@
     (pin "1" (uuid 11e45c31-3014-4367-8199-8e526e66373e))
     (pin "2" (uuid 8ffdc7e9-ef2c-48d0-92b6-9bf408b8c18b))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX6") (unit 1)
         )
@@ -4167,7 +4195,7 @@
     (pin "2" (uuid 381744e4-cffa-44ac-b548-7d93a75cb436))
     (pin "1" (uuid e670506d-6bc6-4052-81e4-d760ee48e29b))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D8") (unit 1)
         )
@@ -4193,7 +4221,7 @@
     (pin "1" (uuid ab1a291b-564a-47b2-9061-db3753780062))
     (pin "2" (uuid c3a77967-59f3-4f1b-8de4-672161350836))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX9") (unit 1)
         )
@@ -4210,7 +4238,7 @@
     (property "Value" "5.1k" (at 132.08 251.46 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 132.08 246.38 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 132.08 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 246.38 0)
@@ -4219,7 +4247,7 @@
     (pin "1" (uuid a17114b2-a21b-423c-bb88-a70c1fe6bd69))
     (pin "2" (uuid 03352db9-b681-470f-9261-a5ecfe3ea9ab))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "R11") (unit 1)
         )
@@ -4236,7 +4264,7 @@
     (property "Value" "100n" (at 314.96 45.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 312.42 43.815 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 312.42 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 312.42 43.815 0)
@@ -4245,7 +4273,7 @@
     (pin "2" (uuid 3a8c0448-36a3-4a34-8130-9c43d9db1933))
     (pin "1" (uuid a1d29881-c538-4071-b46e-178ee7969b3a))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C5") (unit 1)
         )
@@ -4270,7 +4298,7 @@
     )
     (pin "1" (uuid 41ab30f8-bd16-4f7e-9acb-331b859864c5))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR024") (unit 1)
         )
@@ -4295,7 +4323,7 @@
     )
     (pin "1" (uuid f039f69b-5082-457a-8b30-a71e49b26b2d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR023") (unit 1)
         )
@@ -4321,7 +4349,7 @@
     (pin "1" (uuid 0e365b3a-745e-4ea4-a40e-e849adf7576b))
     (pin "2" (uuid 54c866af-063f-432b-832d-47e1a68a563d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX24") (unit 1)
         )
@@ -4347,7 +4375,7 @@
     (pin "1" (uuid 453f511d-7ca0-415b-b4bc-53a6379a8888))
     (pin "2" (uuid 91bff8ba-2f87-43c8-a2ea-c1e5711895e5))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX12") (unit 1)
         )
@@ -4372,7 +4400,7 @@
     )
     (pin "1" (uuid 48430d45-5f16-4c27-b59f-9c28609be06b))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR018") (unit 1)
         )
@@ -4383,7 +4411,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 316.865 193.675 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ae60d74-9db1-41db-adba-a3c80553f7d8)
-    (property "Reference" "MX29" (at 316.865 186.69 0)
+    (property "Reference" "MX28" (at 316.865 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 316.865 189.23 0)
@@ -4398,9 +4426,9 @@
     (pin "1" (uuid 9bb1e9c2-42ec-4bdd-bf69-9f7a21866828))
     (pin "2" (uuid 17aa4be9-731c-4f55-9a75-eda2a98b5c52))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "MX29") (unit 1)
+          (reference "MX28") (unit 1)
         )
       )
     )
@@ -4430,7 +4458,7 @@
     (pin "2" (uuid 308c22f0-f2a9-4a9d-92c7-afa19cbab0ba))
     (pin "1" (uuid 5836a130-017f-41c1-9fbd-db0800c271fd))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D17") (unit 1)
         )
@@ -4456,7 +4484,7 @@
     (pin "1" (uuid 38273853-1c5a-445a-8fd1-e64057065012))
     (pin "2" (uuid 1c21a9e5-ad0f-4ab7-9362-93c61e899043))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX13") (unit 1)
         )
@@ -4481,7 +4509,7 @@
     )
     (pin "1" (uuid caf2e1d0-225e-40d7-9cd8-f3547c9e2ae4))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR01") (unit 1)
         )
@@ -4498,7 +4526,7 @@
     (property "Value" "100n" (at 335.915 45.0913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 333.375 43.815 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 333.375 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 333.375 43.815 0)
@@ -4507,7 +4535,7 @@
     (pin "2" (uuid 1b7e431b-29e6-44f8-8e1d-bc994537670b))
     (pin "1" (uuid 213cc0bb-e208-43db-bbb3-4c3772b543fd))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C7") (unit 1)
         )
@@ -4515,27 +4543,30 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 144.145 90.805 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+  (symbol (lib_id "Device:R_Small") (at 147.32 209.55 0) (unit 1)
+    (in_bom no) (on_board no) (dnp yes)
     (uuid 7ff2b961-4e7b-4ebd-8455-d2ffe6abeda0)
-    (property "Reference" "R3" (at 145.415 89.535 0)
+    (property "Reference" "R5" (at 148.59 208.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 145.415 92.075 0)
+    (property "Value" "1k" (at 148.59 210.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 144.145 90.805 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 147.32 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 144.145 90.805 0)
+    (property "Datasheet" "~" (at 147.32 209.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 147.32 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1f002b49-995f-4172-ae63-f65bb1d73c89))
     (pin "2" (uuid e34626e0-d571-4ec5-bb25-5b0a11d163d4))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "R3") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -4558,7 +4589,7 @@
     )
     (pin "1" (uuid c1ec4744-6135-421e-b170-28a4cbc3f39d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR012") (unit 1)
         )
@@ -4583,7 +4614,7 @@
     )
     (pin "1" (uuid 3400d8db-17db-4adb-b1d5-fe828fae0e64))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR021") (unit 1)
         )
@@ -4591,27 +4622,30 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 130.81 90.805 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+  (symbol (lib_id "Device:R_Small") (at 135.89 209.55 0) (unit 1)
+    (in_bom no) (on_board no) (dnp yes)
     (uuid 86602dba-46b6-47ef-88d2-850c7e1cded6)
-    (property "Reference" "R1" (at 132.08 89.535 0)
+    (property "Reference" "R3" (at 137.16 208.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 132.08 92.075 0)
+    (property "Value" "1k" (at 137.16 210.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 130.81 90.805 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 135.89 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 130.81 90.805 0)
+    (property "Datasheet" "~" (at 135.89 209.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 135.89 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a00e3d0c-8cb4-4114-b578-299ffa87d25b))
     (pin "2" (uuid 424bbc32-1f0d-4c7f-a12e-ce0ae19cc400))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "R1") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -4620,7 +4654,7 @@
   (symbol (lib_id "Device:D_Small") (at 294.005 198.755 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 869213db-fe63-48e0-8b95-2985e790893b)
-    (property "Reference" "D27" (at 295.91 197.485 90)
+    (property "Reference" "D26" (at 295.91 197.485 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 295.91 200.025 90)
@@ -4641,9 +4675,9 @@
     (pin "2" (uuid ee28d895-46b6-4220-b09d-9934d030fd37))
     (pin "1" (uuid f28008f5-4bd0-4863-8f6c-1e4a5e7e62a4))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "D27") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -4673,7 +4707,7 @@
     (pin "2" (uuid 5eefd41e-5beb-4e26-9403-840bb98f324f))
     (pin "1" (uuid 42d4e373-74a4-4414-ac99-89cbb76d5322))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D14") (unit 1)
         )
@@ -4690,7 +4724,7 @@
     (property "Value" "5.1k" (at 125.73 251.46 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 125.73 246.38 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 125.73 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.73 246.38 0)
@@ -4699,7 +4733,7 @@
     (pin "1" (uuid e130c89c-daea-4309-876d-2ff2160f2309))
     (pin "2" (uuid c95a52ea-546e-490a-b646-71c96991827a))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "R10") (unit 1)
         )
@@ -4726,7 +4760,7 @@
     (pin "3" (uuid f1d74e5a-4ecf-4b08-8288-b8b860ac18fb))
     (pin "1" (uuid b3ff5ffb-14c7-4edb-b9d2-036954697cef))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "U1") (unit 1)
         )
@@ -4751,7 +4785,7 @@
     )
     (pin "1" (uuid c4448975-5999-47f1-b161-8ff9b0e172a9))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR03") (unit 1)
         )
@@ -4759,27 +4793,30 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 151.13 90.805 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+  (symbol (lib_id "Device:R_Small") (at 153.035 209.55 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 98f4e086-c450-4d38-b563-80bd13801668)
-    (property "Reference" "R4" (at 152.4 89.535 0)
+    (property "Reference" "R6" (at 154.305 208.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 152.4 92.075 0)
+    (property "Value" "1k" (at 154.305 210.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 90.805 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 153.035 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 90.805 0)
+    (property "Datasheet" "~" (at 153.035 209.55 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 153.035 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1a930017-b9c0-491a-b567-c6b473baf6ab))
     (pin "2" (uuid d6a1213b-8e3d-4b67-b130-c7086d6e7fbf))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "R4") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -4803,7 +4840,7 @@
     (pin "1" (uuid 5c75b7c9-dccf-405c-8751-8bbde1055175))
     (pin "2" (uuid bfbc5fb9-f339-4a7e-bb0c-e3368384e387))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX3") (unit 1)
         )
@@ -4828,7 +4865,7 @@
     )
     (pin "1" (uuid db754b1f-7960-4aa1-8c5f-897962897636))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR011") (unit 1)
         )
@@ -4854,7 +4891,7 @@
     (pin "1" (uuid 41057d3c-0c25-4f59-a242-ec449fb4c234))
     (pin "2" (uuid 6f260bc4-830b-425e-bbca-143a859702fc))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX4") (unit 1)
         )
@@ -4880,7 +4917,7 @@
     (pin "1" (uuid f9b8808a-5cbb-40ed-8fe7-dc4dc0f7cbd6))
     (pin "2" (uuid c0ace154-7a4d-4f47-b750-2b617ee86c7d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX11") (unit 1)
         )
@@ -4905,7 +4942,7 @@
     )
     (pin "1" (uuid 12276363-4d85-4f22-a602-b04e0a2b95ec))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR025") (unit 1)
         )
@@ -4937,7 +4974,7 @@
     (pin "2" (uuid c85a2b24-502d-4e38-8d70-dfaa6b34f2d8))
     (pin "1" (uuid 6bddb04f-a349-4a8f-9037-791cf56c277a))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D19") (unit 1)
         )
@@ -4963,7 +5000,7 @@
     (pin "1" (uuid 20731873-be0a-46f6-b482-ad4a276c24f5))
     (pin "2" (uuid bb521387-13e0-4f02-a417-ca125f1605dc))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX19") (unit 1)
         )
@@ -4995,7 +5032,7 @@
     (pin "2" (uuid f7950f50-6e29-4350-9553-636d2c7a8db6))
     (pin "1" (uuid 308a6c8a-a688-4857-a6e3-c173bf4762b7))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D5") (unit 1)
         )
@@ -5021,7 +5058,7 @@
     (pin "2" (uuid d913a3a7-8c5e-4f3b-99e9-f8178dea616b))
     (pin "1" (uuid f841a97c-77b1-4f32-a494-a0e5cc7ffd3f))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "SW1") (unit 1)
         )
@@ -5038,7 +5075,7 @@
     (property "Value" "5.1k" (at 261.62 241.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 259.08 240.03 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 259.08 240.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 259.08 240.03 0)
@@ -5047,7 +5084,7 @@
     (pin "1" (uuid b4725374-eefe-491e-b48e-e59664217965))
     (pin "2" (uuid e7bfe563-3782-4f75-95af-d4d58d32283b))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "R7") (unit 1)
         )
@@ -5079,7 +5116,7 @@
     (pin "2" (uuid 95d097c0-7819-474f-8ed6-44a7aa7e6199))
     (pin "1" (uuid 1253e02f-9862-47eb-8b9c-25e7e23bcc54))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D13") (unit 1)
         )
@@ -5104,7 +5141,7 @@
     )
     (pin "1" (uuid 7d219bcb-b5e3-40b6-9150-90481e5e2132))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR02") (unit 1)
         )
@@ -5129,7 +5166,7 @@
     )
     (pin "1" (uuid e254357e-75c1-48c1-8cc4-74dace4e266c))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR05") (unit 1)
         )
@@ -5140,7 +5177,7 @@
   (symbol (lib_id "Device:D_Small") (at 319.405 198.755 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8003203-2276-4578-837d-1f0bcbd5f156)
-    (property "Reference" "D29" (at 321.31 197.485 90)
+    (property "Reference" "D28" (at 321.31 197.485 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 321.31 200.025 90)
@@ -5161,9 +5198,9 @@
     (pin "2" (uuid 1b04f195-9b91-4c1c-9793-91652c9580e6))
     (pin "1" (uuid 2b110a72-4c07-4141-a560-1c180b2ff0d7))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "D29") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -5178,7 +5215,7 @@
     (property "Value" "5.1k" (at 125.73 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 125.73 241.3 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 125.73 241.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.73 241.3 0)
@@ -5187,7 +5224,7 @@
     (pin "1" (uuid 5babb8ad-1ff1-4505-a57b-bef1c95c8b61))
     (pin "2" (uuid 6edd8ec9-64f4-421e-993e-ad17a17e2a03))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "R8") (unit 1)
         )
@@ -5195,26 +5232,26 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 106.172 182.88 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 106.045 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b9c20fd9-d9bf-4912-9799-8b220224c600)
-    (property "Reference" "#PWR016" (at 106.172 189.23 0)
+    (property "Reference" "#PWR017" (at 106.045 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 106.172 187.325 0)
+    (property "Value" "GND" (at 106.045 187.325 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 106.172 182.88 0)
+    (property "Footprint" "" (at 106.045 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 106.172 182.88 0)
+    (property "Datasheet" "" (at 106.045 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2d4528bc-b225-4df9-91d0-9b1319426069))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -5237,7 +5274,7 @@
     )
     (pin "1" (uuid 0431d64f-d66b-4250-955b-32f2e61cabb7))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR08") (unit 1)
         )
@@ -5269,7 +5306,7 @@
     (pin "2" (uuid f633012f-548c-4eef-a521-93dae543ba30))
     (pin "1" (uuid 1a026b36-eebd-45b9-beda-179c2b003b44))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D20") (unit 1)
         )
@@ -5301,7 +5338,7 @@
     (pin "2" (uuid 82b76d0e-6cfb-4f44-a590-7e241ac70fa7))
     (pin "1" (uuid 13f42643-9365-454b-b601-4ffa0037522f))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D2") (unit 1)
         )
@@ -5333,7 +5370,7 @@
     (pin "2" (uuid 3dec6efc-0cbc-43b4-ab98-d81e7374cb9f))
     (pin "1" (uuid 48aa9e65-5a94-4f33-b266-21751bcf55b7))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D23") (unit 1)
         )
@@ -5358,7 +5395,7 @@
     )
     (pin "1" (uuid daab5df5-0673-48a5-9d43-569eaac6cbbb))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR019") (unit 1)
         )
@@ -5375,7 +5412,7 @@
     (property "Value" "100n" (at 35.56 53.3463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 33.02 52.07 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 33.02 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 33.02 52.07 0)
@@ -5384,7 +5421,7 @@
     (pin "2" (uuid 5433d97f-2674-49ec-a3cc-b6b4bf3016c0))
     (pin "1" (uuid 50007b65-8d5b-442b-9f69-16ed4d746c1b))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C10") (unit 1)
         )
@@ -5410,7 +5447,7 @@
     (pin "1" (uuid 891beb3b-8e5f-4c28-85fe-5b49f03e618d))
     (pin "2" (uuid bc70c82d-5cc4-4dd4-a63e-69ffde0d106c))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX5") (unit 1)
         )
@@ -5421,7 +5458,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 304.165 193.675 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid caa34f09-1462-4931-b79e-4351c4b04f60)
-    (property "Reference" "MX28" (at 304.165 186.69 0)
+    (property "Reference" "MX27" (at 304.165 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 304.165 189.23 0)
@@ -5436,9 +5473,9 @@
     (pin "1" (uuid 86545088-78b9-4a6f-a094-3b86a4098c1a))
     (pin "2" (uuid 76804138-daca-4c5c-8b18-2d017c9a5c15))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "MX28") (unit 1)
+          (reference "MX27") (unit 1)
         )
       )
     )
@@ -5453,7 +5490,7 @@
     (property "Value" "5.1k" (at 132.08 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 132.08 241.3 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 132.08 241.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 241.3 0)
@@ -5462,7 +5499,7 @@
     (pin "1" (uuid 86b84624-ee8d-4fb6-9076-a0cf6922e242))
     (pin "2" (uuid 9aaa5cf4-338f-414e-9465-b120131e4fa3))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "R9") (unit 1)
         )
@@ -5479,7 +5516,7 @@
     (property "Value" "1u" (at 93.345 49.5363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 90.805 48.26 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 90.805 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.805 48.26 0)
@@ -5488,7 +5525,7 @@
     (pin "2" (uuid ced4d7b9-7445-4d8d-83bf-7bfb37b6f9bf))
     (pin "1" (uuid 5583e160-067c-4fc3-bcf2-847369d3090c))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "C8") (unit 1)
         )
@@ -5520,7 +5557,7 @@
     (pin "2" (uuid 1c00e8b8-3418-429b-abf2-23dcfd8eeb36))
     (pin "1" (uuid fe156b5e-bffd-4770-b2c5-00afdeb7313a))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D6") (unit 1)
         )
@@ -5546,7 +5583,7 @@
     (pin "1" (uuid 1a696e89-2e02-4bcf-bdde-ffd3513aa743))
     (pin "2" (uuid 7e1d02a8-0814-4a3c-bde8-18ed49c7899b))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX10") (unit 1)
         )
@@ -5578,7 +5615,7 @@
     (pin "2" (uuid e840360b-912b-4cdf-aa77-fadfadba88e7))
     (pin "1" (uuid 5635ab66-f17f-4f1f-96d6-45acce748ee5))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D9") (unit 1)
         )
@@ -5603,7 +5640,7 @@
     )
     (pin "1" (uuid b988666f-5f8f-48ce-9bbc-d28e52921f7c))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR010") (unit 1)
         )
@@ -5629,7 +5666,7 @@
     (pin "1" (uuid 03340e14-ac56-4500-9c32-3eeff57547ca))
     (pin "2" (uuid dea32eac-0199-40b4-9d8f-586b50d49f33))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX20") (unit 1)
         )
@@ -5657,7 +5694,7 @@
     (pin "2" (uuid 4a811146-c3e1-49b4-a2c9-59ebb26a04c4))
     (pin "1" (uuid fce370f9-419d-43d6-a65d-97dce6fdecfb))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "J3") (unit 1)
         )
@@ -5682,7 +5719,7 @@
     )
     (pin "1" (uuid a52de4f3-37af-45a3-9ea5-964bf953a60a))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR022") (unit 1)
         )
@@ -5707,7 +5744,7 @@
     )
     (pin "1" (uuid 3559655d-9bb1-43d5-be83-d476eaa69660))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR020") (unit 1)
         )
@@ -5739,7 +5776,7 @@
     (pin "2" (uuid de344eb2-8824-4d6d-9330-9fceb47f6b9c))
     (pin "1" (uuid 1d4ee6c6-28ea-4fb2-959f-61a81187464f))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D4") (unit 1)
         )
@@ -5747,26 +5784,26 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 84.328 183.134 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 84.455 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e73ac9ee-7e94-4840-9dac-4ca66ae72e9d)
-    (property "Reference" "#PWR017" (at 84.328 189.484 0)
+    (property "Reference" "#PWR016" (at 84.455 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 84.328 187.579 0)
+    (property "Value" "GND" (at 84.455 187.325 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 84.328 183.134 0)
+    (property "Footprint" "" (at 84.455 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 84.328 183.134 0)
+    (property "Datasheet" "" (at 84.455 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9d4bbb77-be3e-4a92-9ab0-7d028a1c8a61))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -5789,7 +5826,7 @@
     )
     (pin "1" (uuid 05d01c0b-201b-4e02-8f80-eaa2cdac959d))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR06") (unit 1)
         )
@@ -5797,27 +5834,27 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 136.525 90.805 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+  (symbol (lib_id "Device:R_Small") (at 141.605 209.55 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid e8869358-c8e8-4ab3-95f6-09483ddc8659)
-    (property "Reference" "R2" (at 137.795 89.535 0)
+    (property "Reference" "R4" (at 142.875 208.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 137.795 92.075 0)
+    (property "Value" "1k" (at 142.875 210.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 136.525 90.805 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 141.605 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 136.525 90.805 0)
+    (property "Datasheet" "~" (at 141.605 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5d08af32-b42d-403d-8a52-074fa2a0ad2b))
     (pin "2" (uuid fa4c7b97-b312-4712-a6ce-c1231941bc89))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "R2") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -5840,7 +5877,7 @@
     )
     (pin "1" (uuid f342243a-4494-427c-9e13-55c453a72e61))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR013") (unit 1)
         )
@@ -5866,7 +5903,7 @@
     (pin "1" (uuid bd87e304-b666-439d-9f3f-d6d6333cc1e0))
     (pin "2" (uuid b4112b87-8712-499f-9c56-b555b899d1fa))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX2") (unit 1)
         )
@@ -5896,7 +5933,7 @@
     (pin "S2" (uuid 3f95afd4-841c-4979-a5ee-b793fbd601fe))
     (pin "C" (uuid 5b9711c5-8930-49b9-94a6-9333ea14b33e))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "SW2") (unit 1)
         )
@@ -5904,24 +5941,24 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 103.632 78.74 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 103.505 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ead2e377-d8b8-4860-8a80-ca366ca42b10)
-    (property "Reference" "#PWR014" (at 103.632 82.55 0)
+    (property "Reference" "#PWR014" (at 103.505 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 103.632 73.66 0)
+    (property "Value" "+3V3" (at 103.505 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 103.632 78.74 0)
+    (property "Footprint" "" (at 103.505 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 103.632 78.74 0)
+    (property "Datasheet" "" (at 103.505 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2e57f60d-65d8-475b-be52-5834e07f136c))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR014") (unit 1)
         )
@@ -5946,7 +5983,7 @@
     )
     (pin "1" (uuid 452d0852-e591-427b-bd6d-91c8bc9fa5a4))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "#PWR015") (unit 1)
         )
@@ -5954,19 +5991,19 @@
     )
   )
 
-  (symbol (lib_id "MCU_ST_STM32F4:STM32F401RCTx") (at 106.172 130.81 0) (unit 1)
+  (symbol (lib_id "MCU_ST_STM32F4:STM32F401RCTx") (at 106.045 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ecc1c74a-0e2c-4381-bff7-bee07972310b)
-    (property "Reference" "U2" (at 110.9061 175.895 0)
+    (property "Reference" "U2" (at 110.7791 175.895 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "STM32F401RCTx" (at 110.9061 178.435 0)
+    (property "Value" "STM32F401RCTx" (at 110.7791 178.435 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm" (at 93.472 173.99 0)
+    (property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm" (at 93.345 173.99 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f401rc.pdf" (at 106.172 130.81 0)
+    (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f401rc.pdf" (at 106.045 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "16" (uuid 59f3fa89-fc57-4bde-81db-d6ede7cc23e3))
@@ -6034,7 +6071,7 @@
     (pin "11" (uuid 22e7fb74-1125-444d-ad14-66687fc3d847))
     (pin "53" (uuid 9e338503-41c1-430f-a72f-f0fb3a8864ad))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "U2") (unit 1)
         )
@@ -6045,7 +6082,7 @@
   (symbol (lib_id "Device:D_Small") (at 281.305 198.755 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f11bb03c-8b63-4078-a46d-662e55fe57b4)
-    (property "Reference" "D26" (at 283.21 197.485 90)
+    (property "Reference" "D25" (at 283.21 197.485 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 283.21 200.025 90)
@@ -6066,9 +6103,9 @@
     (pin "2" (uuid 6b049de5-7d9b-48c4-a744-c9dd53b34798))
     (pin "1" (uuid e25e839e-d7aa-4c56-8503-f8177ed352d1))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
-          (reference "D26") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -6092,7 +6129,7 @@
     (pin "1" (uuid 56437318-0897-4345-9b63-b40f40e68fcd))
     (pin "2" (uuid 8a047421-030f-42fc-8b75-d773afafa6d1))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX16") (unit 1)
         )
@@ -6118,7 +6155,7 @@
     (pin "1" (uuid 211a6e06-4ea3-409c-b6dd-0dd96c4d8450))
     (pin "2" (uuid 4962f9f7-8167-464c-8b7b-1f62bd401055))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "MX14") (unit 1)
         )
@@ -6150,7 +6187,7 @@
     (pin "2" (uuid 5174f504-c645-4c59-ae33-29d649ed7960))
     (pin "1" (uuid 8e04aadb-f38e-4411-b7cd-ea9f13e1055a))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D24") (unit 1)
         )
@@ -6182,7 +6219,7 @@
     (pin "2" (uuid 0b9a67dd-a268-4976-9d15-72b23ea794a3))
     (pin "1" (uuid 17b820f4-45c2-4d45-99ae-ac7643962eb9))
     (instances
-      (project "pcb-quaken"
+      (project "pcb-right"
         (path "/0fec5bf3-2c1b-43dd-91bc-92c7302749bc"
           (reference "D18") (unit 1)
         )
