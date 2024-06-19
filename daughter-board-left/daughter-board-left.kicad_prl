@@ -38,6 +38,7 @@
       9,
       10,
       11,
+      12,
       13,
       15,
       16,
@@ -63,8 +64,14 @@
       39,
       40
     ],
-    "visible_layers": "7ffdde0_80000001",
+    "visible_layers": "7ffdfe0_80000001",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "daughter-board-left.kicad_prl",
