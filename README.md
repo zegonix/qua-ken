@@ -5,7 +5,7 @@ this repository holds the design resources for the open source keyboard 'qua-ken
 I just started and am currently working on the PCB. Once the PCB is tested, I will start with the case
 
 # Licensing
-Software is licensed under GPL 2.0, PCB and case designs are free for use noncommercially and commercially when credited appropriately.
+Software (QMK) is licensed under GPL 2.0, With PCB and case designs you are free to do as you will.
 
 # Can you I this keyboard when it's finished?
 Yes and No. I will not open a shop and sell units myself, but the resources will all be accessible in this repository, so you can order all the parts yourself. You can also find a manufacturer and sell this keyboard as long as you credit this repository appropriately.
