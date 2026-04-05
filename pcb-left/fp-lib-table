@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kicad-lib")(type "KiCad")(uri "/home/quak/repositories/qua-ken/kicad-lib.pretty")(options "")(descr ""))
+)
